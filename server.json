@@ -12,7 +12,7 @@
   "remotes": [
     {
       "type": "sse",
-      "url": "https://ssl-checker-production-3dda.up.railway.app/mcp"
+      "url": "https://ssl-checker-x402-production.up.railway.app/mcp"
     }
   ]
 }
