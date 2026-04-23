@@ -3,7 +3,7 @@
   "name": "io.github.Br0ski777/ssl-checker",
   "title": "SSL Checker API",
   "description": "SSL certificate check \u00e2\u20ac\u201d validity, expiry, issuer, chain, grade. x402 micropayment.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://github.com/Br0ski777/ssl-checker-x402",
   "repository": {
     "url": "https://github.com/Br0ski777/ssl-checker-x402",
