@@ -9,7 +9,7 @@ export const API_CONFIG: ApiConfig = {
     {
       method: "POST",
       path: "/api/check",
-      price: "$0.002",
+      price: "$0.005",
       description: "Check SSL certificate for a domain",
       toolName: "security_check_ssl",
       toolDescription: `Use this when you need to check if a domain's SSL/TLS certificate is valid, when it expires, and who issued it. Returns structured certificate data in JSON.
