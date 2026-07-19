@@ -37,7 +37,7 @@ Any x402-aware client ([`@x402/fetch`](https://www.npmjs.com/package/@x402/fetch
 
 | Tool | Method | Path | Price | Description |
 |---|---|---|---|---|
-| `security_check_ssl` | POST | `/api/check` | $0.002 | Check SSL certificate for a domain |
+| `security_check_ssl` | POST | `/api/check` | $0.005 | Check SSL certificate for a domain |
 
 ### `security_check_ssl`
 
